@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.AssemblyInfo.cs
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\reference and out parameters\bin\Debug\net6.0\reference and out parameters.exe
+C:\Users\hp\Desktop\reference and out parameters\bin\Debug\net6.0\reference and out parameters.deps.json
+C:\Users\hp\Desktop\reference and out parameters\bin\Debug\net6.0\reference and out parameters.runtimeconfig.json
+C:\Users\hp\Desktop\reference and out parameters\bin\Debug\net6.0\reference and out parameters.dll
+C:\Users\hp\Desktop\reference and out parameters\bin\Debug\net6.0\reference and out parameters.pdb
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.dll
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\refint\reference and out parameters.dll
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.pdb
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\reference and out parameters.genruntimeconfig.cache
+C:\Users\hp\Desktop\reference and out parameters\obj\Debug\net6.0\ref\reference and out parameters.dll
